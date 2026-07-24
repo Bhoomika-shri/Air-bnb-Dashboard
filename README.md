@@ -68,37 +68,6 @@ The dashboard includes interactive visualizations such as:
 
 ---
 
-## 📁 Repository Structure
-
-```
-Airbnb-PowerBI-Dashboard/
-│
-├── Dataset/
-│   ├── Listings.csv
-│   ├── Reviews.csv
-│
-├── Dashboard/
-│   └── Airbnb Dashboard.pbix
-│
-├── Images/
-│   └── Dashboard Screenshot.png
-│
-└── README.md
-```
-
----
-
-## 📷 Dashboard Preview
-
-> Add a screenshot of your dashboard here.
-
-Example:
-
-```
-Images/Dashboard Screenshot.png
-```
-
----
 
 ## 🚀 Skills Demonstrated
 
